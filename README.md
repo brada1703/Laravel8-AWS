@@ -10,4 +10,4 @@ Using:
 - SSL Certificate
 - Crons
 
-Following video tutorial: https://www.youtube.com/watch?v=otXKn_kQxuw
+Following video tutorial: https://youtu.be/KtpiF3SUCkA
